@@ -1,1 +1,1 @@
-worker:python otpravka.py
+web:python otpravka.py
